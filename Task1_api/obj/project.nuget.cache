@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "0Ge8cdxtpRActKbdFPh5dfA2dqibAiuajy04PUtck3NM+qhRrg9LV2nopriVKkQekCELa7tFBlsLNgzDa4FGbA==",
+  "dgSpecHash": "rP2T75dKTlx0mebVJdYNR6a/hGouFZinjhCRhJnPmK6WzQ2tydQQkRzPg4FSKjHeB1+eeV+mZP1nk279aQs4bQ==",
   "success": true,
   "projectFilePath": "/home/uoy/projects/UOY_pk_akb_task1/Task1_api/Task1_api.csproj",
   "expectedPackageFiles": [
+    "/home/uoy/.nuget/packages/microsoft.aspnetcore.jsonpatch/8.0.0/microsoft.aspnetcore.jsonpatch.8.0.0.nupkg.sha512",
     "/home/uoy/.nuget/packages/microsoft.aspnetcore.openapi/7.0.14/microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
+    "/home/uoy/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/uoy/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/uoy/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/uoy/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/home/uoy/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/home/uoy/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/home/uoy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
